@@ -220,7 +220,7 @@ if (isset($_POST['login'])) {
             <div>
                 <div class="flex items-center gap-5 mb-8 md:mb-12">
                     <div class="logo-circle flex items-center justify-center shrink-0">
-                        <img src="logo_ec.jpg" alt="Logo" class="w-full h-full object-cover">
+                        <img src="assets/images/logo_ec.jpg" alt="Logo" class="w-full h-full object-cover">
                     </div>
                     <div>
                         <h2 class="text-white font-black text-lg md:text-xl tracking-tighter uppercase">Doctor <span class="text-amber-600">EC</span></h2>
@@ -241,7 +241,7 @@ if (isset($_POST['login'])) {
 
             <div class="mt-12 md:mt-16 bg-white/5 p-6 rounded-[25px] md:rounded-[35px] border border-white/5 flex items-center gap-6 group">
                 <div class="qr-wrapper shrink-0">
-                    <img src="QR Code.png" alt="Portal QR" class="w-12 h-12 md:w-16 md:h-16">
+                    <img src="assets/images/QR Code.png" alt="Portal QR" class="w-12 h-12 md:w-16 md:h-16">
                 </div>
                 <div class="transform group-hover:translate-x-1 transition-transform">
                     <p class="text-[8px] font-black text-amber-700 uppercase tracking-widest mb-1">Quick Access</p>
